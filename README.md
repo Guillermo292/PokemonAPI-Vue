@@ -1,35 +1,37 @@
 # PokeAPI
 
-This template should help get you started developing with Vue 3 in Vite.
+Pokemon
 
-## Recommended IDE Setup
+Contexto del proyecto Nos encargan hacer una SPA (Single Page Application) ,teniendo que utilizar una aplicación API.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Nos piden unos requisitos mínimos que son los siguientes:
 
-## Customize configuration
+SPA con Vue
+Responsive Design
+Homepage con su header, footer y sección principal con la lista de los elementos.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+PARTES DEL PROYECTO
+FIGMA
+(https://user-images.githubusercontent.com/116892227/212333148-95730f9f-d455-40ef-8ffd-233850b23496.png)
 
-## Project Setup
+HERRAMIENTAS Y LENGUAJES UTILIZADOS
+Lenguajes
+HTML
+SCSS
+JavaScript
+Vue3
+Pinnia
+Pokemon Api
+Herramientas:
+Visual Studio Code, junto a Git Bash, para la creación de los elementos necesarios (documentos HTML, SASS, Vue3, Pinnia y JavaScript, así como las carpetas necesarias para su organización) y el repositorio local.
 
-```sh
+GitHub para la creación de un repositorio online que nos permitirá, entre otras opciones, recuperar el proyecto desde cualquier dispositivo, así como compartirlo llegado el momento.
+
+Instalación:
 npm install
-```
 
-### Compile and Hot-Reload for Development
+AUTORES:
+Xavi Villaverde
+Andres Pérez
+Guillermo Trigueros
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
