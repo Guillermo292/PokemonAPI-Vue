@@ -11,12 +11,7 @@
     header {
         display: flex;
         width: 100%;
-<<<<<<< HEAD
-        background-image: url(../assets/img/pokemonbackimg3.png);
-        background-size: cover;
-=======
         height: 20vh;
->>>>>>> 6db3eea4a73daa5f744a58854d42e68e998ec96b
         
             #img-fondo {
                 width: 100%;
@@ -29,7 +24,7 @@
                         width: 100%;
                         height: 50vh;
                         display: flex;
-                        background-color: black;
+                        background-color: #252525;
                         padding-top: 2%;
                         padding-bottom: 2%;
                         padding-right: 2%;
