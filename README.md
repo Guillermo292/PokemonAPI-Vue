@@ -2,7 +2,7 @@
 
 Pokemon
 
-Contexto del proyecto Nos encargan hacer una SPA (Single Page Application) ,teniendo que utilizar una aplicación API.
+Contexto del proyecto. Nos encargan hacer una SPA (Single Page Application) ,teniendo que utilizar una aplicación API.
 
 Nos piden unos requisitos mínimos que son los siguientes:
 
