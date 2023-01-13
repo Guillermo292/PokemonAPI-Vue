@@ -31,7 +31,7 @@ FIGMA
 npm install
 
 ## AUTORES:
--[Xavi Villaverde] (https://github.com/Xavi1594)
--[Andres Pérez] (https://github.com/Andrespz07)
--[Guillermo Trigueros] (https://github.com/Guillermo292)
+- [Xavi Villaverde] (https://github.com/Xavi1594)
+- [Andres Pérez] (https://github.com/Andrespz07)
+- [Guillermo Trigueros] (https://github.com/Guillermo292)
 
