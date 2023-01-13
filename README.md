@@ -1,10 +1,10 @@
-# PokeAPI
+## PokeAPI
 
-Pokemon
+-Pokemon
 
-Contexto del proyecto. Nos encargan hacer una SPA (Single Page Application) ,teniendo que utilizar una aplicación API.
+-Contexto del proyecto. Nos encargan hacer una SPA (Single Page Application) ,teniendo que utilizar una aplicación API.
 
-Nos piden unos requisitos mínimos que son los siguientes:
+-Nos piden unos requisitos mínimos que son los siguientes:
 
 SPA con Vue
 Responsive Design
@@ -14,24 +14,24 @@ PARTES DEL PROYECTO
 FIGMA
 (https://user-images.githubusercontent.com/116892227/212333148-95730f9f-d455-40ef-8ffd-233850b23496.png)
 
-HERRAMIENTAS Y LENGUAJES UTILIZADOS
-Lenguajes
-HTML
-SCSS
-JavaScript
-Vue3
-Pinnia
-Pokemon Api
-Herramientas:
-Visual Studio Code, junto a Git Bash, para la creación de los elementos necesarios (documentos HTML, SASS, Vue3, Pinnia y JavaScript, así como las carpetas necesarias para su organización) y el repositorio local.
+##HERRAMIENTAS Y LENGUAJES UTILIZADOS
+-Lenguajes
+-HTML
+-SCSS
+-JavaScript
+-Vue3
+-Pinnia
+-Pokemon Api
+## Herramientas:
+-Visual Studio Code, junto a Git Bash, para la creación de los elementos necesarios (documentos HTML, SASS, Vue3, Pinnia y JavaScript, así como las carpetas ----------necesarias para su organización) y el repositorio local.
 
-GitHub para la creación de un repositorio online que nos permitirá, entre otras opciones, recuperar el proyecto desde cualquier dispositivo, así como compartirlo llegado el momento.
+-GitHub para la creación de un repositorio online que nos permitirá, entre otras opciones, recuperar el proyecto desde cualquier dispositivo, así como compartirlo ----llegado el momento.
 
-Instalación:
+## Instalación:
 npm install
 
-AUTORES:
-Xavi Villaverde
-Andres Pérez
-Guillermo Trigueros
+## AUTORES:
+-[Xavi Villaverde] (https://github.com/Xavi1594)
+-[Andres Pérez] (https://github.com/Andrespz07)
+-[Guillermo Trigueros] (https://github.com/Guillermo292)
 
