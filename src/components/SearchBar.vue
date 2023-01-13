@@ -1,7 +1,7 @@
 <script setup>
 function search() {
     let input = document.querySelector("input").value.toLowerCase()
-    let list = document.querySelectorAll("ul > li")
+    let list = document.querySelectorAll("ul,li")
     let noItemsText = document.querySelector(".noItemsText")
     let displayCounter = 0
 
@@ -28,6 +28,9 @@ function search() {
 const ul = document.querySelector("pokemon")
 const url = 'https://randomuser.me/api/?results=10';
 
+
+
+
 </script>
 
 <template>
@@ -46,19 +49,9 @@ const url = 'https://randomuser.me/api/?results=10';
 
 
 
-
-
-            <!-- <ul>
-            <li class="languages">Python</li>
-            <li class="languages">C++</li>
-            <li class="languages">Java</li>
-            <li class="languages">C</li>
-            <li class="languages">JavaScript</li>
-            <li class="languages">PHP</li>
-            <li class="languages">Perl</li>
-            <li class="languages">Ruby</li>
-            <li class="languages">Go</li>
-            <li class="languages">CSS</li>
+             <ul>
+            <li class= "pokemon"></li>
+        
         </ul>
         <p class="noItemsText">No items to display</p> -->
     </div>
